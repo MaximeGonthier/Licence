@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cisco Packet Tracer
+Exec=env WINEPREFIX="/home/ben/.wine" /opt/wine-staging/bin/wine C:\\\\Program\\ Files\\ \\(x86\\)\\\\Cisco\\ Packet\\ Tracer\\ 5.3.1\\\\bin\\\\PacketTracer5.exe 
+Type=Application
+StartupNotify=true
+Path=/home/ben/.wine/dosdevices/c:/Program Files (x86)/Cisco Packet Tracer 5.3.1/bin
+Icon=EAA4_PacketTracer5.0
+StartupWMClass=packettracer5.exe
